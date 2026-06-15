@@ -44,6 +44,10 @@ Evaluation Metrics:
 
 IEA/EDGAR Global CO₂ Emissions Dataset (1970–2023)
 
+Due to GitHub file size limitations, the dataset is not included in this repository.
+
+Users can download the dataset from the official source and place it in the project directory before running the application.
+
 ## Future Scope
 
 * XGBoost implementation
@@ -51,4 +55,6 @@ IEA/EDGAR Global CO₂ Emissions Dataset (1970–2023)
 * Carbon neutrality simulations
 * Country-specific forecasting
 * Deployment on Streamlit Cloud
+
+
 
