@@ -1,0 +1,4 @@
+Scenario,Annual_Adjustment,Annual_Adjustment_%,Description
+Baseline,0.0,0.0,Recent historical growth trend continues
+Moderate Reduction,-0.01,-1.0,Annual growth rate reduced by 1 percentage point
+Accelerated Reduction,-0.02,-2.0,Annual growth rate reduced by 2 percentage points
